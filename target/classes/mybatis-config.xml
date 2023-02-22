@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration
+PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+<!-- 没有配置任何文件，因为已经把Mybatis的配置文件在与Spring整合时，迁移到Spring的配置文件中 -->
+</configuration>
